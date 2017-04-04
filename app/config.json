@@ -1,0 +1,57 @@
+﻿{
+"photoData" : [{
+	"imgFileName" : "app",
+	"imgFileType" : "png",
+	"imgPath" : "img/app",
+	"imgTotal" : 27,
+	"imgCat" : "app開發設計",
+	"imgIndex" : [
+	{"startP" : 1, "endP" : 8, "title" : "音樂app", "date" : 2014, "indexPic" : "index-app-1.png"},
+	{"startP" : 9, "endP" : 17, "title" : "雲端資料櫃", "date" : 2014, "indexPic" : "index-app-2.png"},
+	{"startP" : 18, "endP" : 18, "title" : "app封面製作", "date" : 2013, "indexPic" : "index-app-3.png"},
+	{"startP" : 19, "endP" : 22, "title" : "隨意遊", "date" : 2012, "indexPic" : "index-app-4.png"},
+	{"startP" : 23, "endP" : 27, "title" : "隨食記", "date" : 2011, "indexPic" : "index-app-5.png"}],
+	"catPic" : "img/cat-app-bg.png"
+},{
+	"imgFileName" : "web",
+	"imgFileType" : "png",
+	"imgPath" : "img/web",
+	"imgTotal" : 36,
+	"imgCat" : "網站製作",
+	"imgIndex" : [
+	{"startP" : 1, "endP" : 6, "title" : "線上教學系統", "date" : 2014, "indexPic" : "index-web-1.png"},
+	{"startP" : 7, "endP" : 12, "title" : "繪本地圖", "date" : 2014, "indexPic" : "index-web-2.png"},
+	{"startP" : 13, "endP" : 15, "title" : "新翰蛋糕", "date" : 2012, "indexPic" : "index-web-3.png"},
+	{"startP" : 16, "endP" : 18, "title" : "好市集", "date" : 2012, "indexPic" : "index-web-4.png"},
+	{"startP" : 19, "endP" : 21, "title" : "涵碧樓求婚活動", "date" : 2012, "indexPic" : "index-web-5.png"},
+	{"startP" : 22, "endP" : 24, "title" : "Xuite秘境探險", "date" : 2012, "indexPic" : "index-web-6.png"},
+	{"startP" : 25, "endP" : 28, "title" : "摩爾空間", "date" : 2012, "indexPic" : "index-web-7.png"},
+	{"startP" : 29, "endP" : 33, "title" : "Alvin官網", "date" : 2012, "indexPic" : "index-web-8.png"},
+	{"startP" : 34, "endP" : 36, "title" : "Xuite旅遊台港日", "date" : 2012, "indexPic" : "index-web-9.png"}],
+	"catPic" : "img/cat-bg.png"
+},{
+	"imgFileName" : "ad",
+	"imgFileType" : "jpg",
+	"imgPath" : "img/banners",
+	"imgTotal" : 40,
+	"imgCat" : "平面設計",
+	"imgIndex" : [
+	{"startP" : 1, "endP" : 14, "title" : "日誌樣板設計", "date" : "2011-14", "indexPic" : ""},
+	{"startP" : 15, "endP" : 18, "title" : "雲櫃安裝步驟說明", "date" : 2014, "indexPic" : ""},
+	{"startP" : 19, "endP" : 35, "title" : "hichannel廣宣", "date" : 2011, "indexPic" : ""},
+	{"startP" : 36, "endP" : 40, "title" : "其他活動廣宣", "date" : 2010, "indexPic" : ""}],
+	"catPic" : "img/cat-ad-bg.png"
+},{
+	"imgFileName" : "sketch",
+	"imgFileType" : "png",
+	"imgPath" : "img/sketch",
+	"imgTotal" : 27,
+	"imgCat" : "塗鴉創作",
+	"imgIndex" : [
+	{"startP" : 1, "endP" : 9, "title" : "賀卡", "date" : "2011-14", "indexPic" : ""},
+	{"startP" : 10, "endP" : 11, "title" : "水彩", "date" : "2012", "indexPic" : ""},
+	{"startP" : 12, "endP" : 18, "title" : "插畫", "date" : "2012-13", "indexPic" : ""},
+	{"startP" : 19, "endP" : 27, "title" : "素描", "date" : "2011-14", "indexPic" : ""}],
+	"catPic" : "img/cat-pen-bg.png"
+}]
+}
