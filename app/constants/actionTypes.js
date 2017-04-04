@@ -1,0 +1,2 @@
+export const GET_CONFIG_SUCCESS = 'GET_CONFIG_SUCCESS';
+export const GET_CONFIG_FAIL = 'GET_CONFIG_FAIL';
